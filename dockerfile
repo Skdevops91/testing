@@ -1,3 +1,3 @@
 #1
-FROM ubuntu;latest
+FROM ubuntu;latebhyst
 uukil
