@@ -1,2 +1,2 @@
 #1
-FROM ubuntu
+FROM ubuntuyykttrtj
