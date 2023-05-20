@@ -1,2 +1,3 @@
 #1
-FROM ubuntu
+FROM ubuntukk,l
+l,k,jmjk,
